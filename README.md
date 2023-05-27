@@ -1,9 +1,9 @@
-Ola Mundo,
+# Ola Mundo,
 
-Me chamo Douglas Barros 👋🏾
+## Me chamo Douglas Barros 👋🏾
+Sou novo no mundo Dev abaixo segue vai algumas informações sobre mim.
 
-#
-About me 
+### About me 
 
 💻 Sou um entusiasta em tecnologia e futuro Ciêntista de Dados.
 
