@@ -16,8 +16,7 @@ Sou novo no mundo Dev abaixo segue vai algumas informações sobre mim.
 Languages
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 #
 ![Douglaselb's Stats](https://github-readme-stats.vercel.app/api?username=Douglaselb&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)![Douglaselb's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Douglaselb&theme=vue-dark&hide_border=true)
 
